@@ -1,0 +1,12 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.form-control {
+    text-align: center;
+}
+
+.form-control * {
+    padding: .2rem;
+    margin: 0 .2rem;
+}
